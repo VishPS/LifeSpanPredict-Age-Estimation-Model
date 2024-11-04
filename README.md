@@ -26,8 +26,8 @@ The goal of this project is to predict the age of individuals based on their hea
 ## Screenshots
 
 
-![Data Preprocessing Screenshot](images/Screenshot_2024-11-04_221909.png)
-![Model Evaluation Output Screenshot](images/Screenshot_2024-11-04_221939.png)
+![Data Preprocessing Screenshot](Screenshot_2024-11-04_221909.png)
+![Model Evaluation Output Screenshot](Screenshot_2024-11-04_221939.png)
 
 ## Installation
 
