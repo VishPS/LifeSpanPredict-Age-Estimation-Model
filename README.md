@@ -10,6 +10,7 @@ This project implements a machine learning model to predict human age based on v
 - [Data Preprocessing](#data-preprocessing)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Project Description
@@ -23,8 +24,16 @@ The goal of this project is to predict the age of individuals based on their hea
 5. **Hyperparameter Tuning**: Uses Randomized Search Cross-Validation to find the best model parameters.
 6. **Model Evaluation**: Evaluates the trained model using metrics like Mean Absolute Error and R² Score.
 
-## Screenshots
+## Results
 
+The model achieved remarkable performance metrics, showcasing its effectiveness in predicting human age:
+
+- **Mean Absolute Error (MAE)**: **3.11** 
+- **R² Score**: **0.96**
+
+These results indicate that the model's predictions are incredibly close to the actual ages, with an average error of just over **3 years**. The R² score of **0.96** suggests that the model explains **96%** of the variance in the age data, which is an outstanding achievement in predictive modeling. This level of accuracy is not only impressive but also demonstrates the model's robustness and reliability in real-world applications. Such precision can significantly aid in health assessments and personalized lifestyle recommendations.
+
+## Screenshots
 
 ![Data Preprocessing Screenshot](Screenshot_2024-11-04_221909.png)
 ![Model Evaluation Output Screenshot](Screenshot_2024-11-04_221939.png)
