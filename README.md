@@ -23,6 +23,11 @@ The goal of this project is to predict the age of individuals based on their hea
 5. **Hyperparameter Tuning**: Uses Randomized Search Cross-Validation to find the best model parameters.
 6. **Model Evaluation**: Evaluates the trained model using metrics like Mean Absolute Error and R² Score.
 
+## Screenshots
+
+![Portfolio Screenshot](Screenshot 2024-11-04 221909.png)
+![Portfolio Screenshot](Screenshot 2024-11-04 221939.png)
+
 ## Installation
 
 To run this project, you need to have Python installed along with the following libraries:
